@@ -1,0 +1,5 @@
+application.conf
+derby.log
+target/
+project/
+metastore_db/
